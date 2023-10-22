@@ -2,6 +2,11 @@
 
 ## Processando e Transformando Dados com Power BI
 
+- Relatório de Categorização da base de dados de teste Azure Company
+
+![Página 1 do relatório](relatorio-azure-company.png)
+![Página 2 do relatório](relatorio-azure-company-2.png)
+
 ### Descrição do Desafio
 
 - [x] Criação de uma instância na Azure para MySQL
