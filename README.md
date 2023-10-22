@@ -64,4 +64,4 @@
 
 #### MySQL WorchBench
 
-- As transformações estão no script [[limpeza-dados.sql]].
+- As transformações estão no arquivo limpeza de dados [explorando a base azure_company](limpeza-dados.md).
